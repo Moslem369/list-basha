@@ -55,10 +55,10 @@ header .link:hover .link-list {
     grid-template-columns: repeat(2 , auto);
 }
 .container-thing .main-product .cards-of-product {
-    width: 185px;
-    height: 313px;
+    width: 177.5px;
+    height: 307.5px;
 }
 .container-thing .main-product .cards-of-product img {
-    width: 183px;
-    height: 183px;
+    width: 170px;
+    height: 170px;
 }
