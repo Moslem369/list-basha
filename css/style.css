@@ -10,6 +10,9 @@
     ---third-color: #FF7A30;
     ---text-color: #000;
 }
+body {
+    overflow-x: hidden;
+}
 a {
     text-decoration: none;
     color: #E9E3DF;
