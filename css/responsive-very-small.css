@@ -1,0 +1,12 @@
+.container-thing .main-product {
+    display: grid;
+    grid-template-columns: repeat(2 , auto);
+}
+.container-thing .main-product .cards-of-product {
+    width: 170px;
+    height: 300px;
+}
+.container-thing .main-product .cards-of-product img {
+    width: 165px;
+    height: 165px;
+}
