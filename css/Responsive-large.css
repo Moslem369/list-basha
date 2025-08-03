@@ -62,15 +62,15 @@ header .link:hover .link-list {
 }
 /* End Header */
 .container-thing .main-product {
-    grid-template-columns: repeat(2 , auto);
+    grid-template-columns: repeat(3 , auto);
 }
 .container-thing .main-product .cards-of-product {
-    width: 177.5px;
+    width: calc((674px / 3) - 10px);
     height: auto;
 }
 .container-thing .main-product .cards-of-product img {
-    width: 170px;
-    height: 170px;
+    width: calc(630px / 3);
+    height: calc(630px / 3);
 }
 .container-thing .main-product .cards-of-product .text .product-money {
     flex-direction: column;
