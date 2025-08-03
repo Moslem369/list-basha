@@ -142,10 +142,12 @@ header .link ul a:hover {
     margin: 10px 0;
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: stretch;
 }
 .container-of-des ul li .text-des {
     padding-right: 10px;
+    display: flex;
+    align-items: center;
 }
 .container-of-des ul li i {
     background-color: var(---third-color);
@@ -153,5 +155,7 @@ header .link ul a:hover {
     width: fit-content;
     text-align: center;
     color: var(---main-color);
+    display: flex;
+    align-items: center;
 }
 /* End Description */
