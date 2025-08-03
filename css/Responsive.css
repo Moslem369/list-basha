@@ -9,11 +9,6 @@
 }
 /* Start Header */
 header {
-    border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
     background-color: var(---main-color);
 }
 header .logo  .basha-black {

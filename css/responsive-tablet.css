@@ -57,7 +57,7 @@ header .link:hover .link-list {
 }
 /* End Header */
 .container-thing .main-product {
-    grid-template-columns: repeat(3 , auto);
+    grid-template-columns: repeat(4 , auto);
 }
 .container-thing .main-product .cards-of-product {
     width: calc((674px / 3) - 10px);
