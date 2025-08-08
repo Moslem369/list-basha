@@ -56,6 +56,7 @@ header .link:hover .link-list {
     display: block;
 }
 /* End Header */
+/* Start  Container Thing */
 .container-thing .main-product {
     grid-template-columns: repeat(2 , auto);
 }
@@ -70,3 +71,4 @@ header .link:hover .link-list {
 .container-thing .main-product .cards-of-product .text .product-money {
     flex-direction: column;
 }
+/* End Container Thing */
