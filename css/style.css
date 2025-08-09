@@ -114,6 +114,7 @@ header .link ul a:hover {
     align-items: center;
     width: 100%;
     margin-top: 10px;
+    color: var(---third-color);
 }
 .container-thing .main-product .cards-of-product .text .product-money span {
     background-color: var(---second-color);
